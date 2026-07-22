@@ -17,3 +17,18 @@ cd CSE-3206-Lab-01
 python hello.py
 ```
 
+## Basic Git Commands
+
+ - See branches: `git branch`
+ - Create a branch: `git checkout -b branch_name`
+ - Switch to existing branch: `git switch branch_name`
+ - add and commit:
+ ```bash
+ git add .
+ git commit -m "a commit message"
+ git push -u origin main
+ ```
+ - push to a specific branch: `git push -u origin branch_main`
+ 
+
+See [this video](https://youtu.be/CvUiKWv2-C0?si=zwxZGt7etoYzutT7) for learning more about git.
