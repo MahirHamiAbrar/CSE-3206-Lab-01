@@ -32,5 +32,5 @@ python hello.py
  
 
 See these videos for learning more about git:
- - [Video 1]((https://youtu.be/CvUiKWv2-C0?si=zwxZGt7etoYzutT7))
+ - [Video 1](https://youtu.be/CvUiKWv2-C0?si=zwxZGt7etoYzutT7)
  - [Detailed Video](https://www.youtube.com/watch?v=8JJ101D3knE)
