@@ -1,5 +1,4 @@
 # CSE-3206-Lab-01
-
 ## Cloning the Repository
 
 ```bash

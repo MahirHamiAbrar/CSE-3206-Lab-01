@@ -6,3 +6,8 @@ def Zunaid():
 
 main()
 Zunaid()
+def hello_77():
+    print('Hello from mahir bhai')
+
+main()
+hello_77()
